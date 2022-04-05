@@ -1,0 +1,2 @@
+iniciar o angular entre no cmd e vá até a pasta "projeto-pwa-angular" e digite o comando = ng s para 
+iniciar a API abra outro prompt de comando e vá até a pasta node-seguros e digite node index.js
